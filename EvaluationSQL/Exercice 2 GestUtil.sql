@@ -12,3 +12,6 @@ CREATE USER 'util3'@'%' IDENTIFIED BY '1Ksable';
 
 GRANT SHOW VIEW ON papyrus.fournis TO 'util3'@'%'
 IDENTIFIED BY '1Ksable';
+
+
+-- test frc
